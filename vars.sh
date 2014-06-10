@@ -1,0 +1,7 @@
+export UPSTREAM_GERRIT_HOST_PUBLIC_KEY="ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCUFQY0ZDXGgYEQlTsb3Q0GJZlJK5lmwcJpS5QvMs9xfmRJXd7SDZStoAnk1Qb0dT7FfmA1t6HNcjxJXd3/WExApjzEtT8PiXUKRGAB08yiQuHhrJ4j/obTQFpeTXYvRcjlNCCQlhEbiCeuDAZeX4wSdmdvdY69ymYBX5tHvA/G0rb/8verQhyVzlWtKrhqRdYcoFRVNeBIfPa+u3wSaiQpX54FwOYNdKtXNO7hJJjD8jh1HxvzTh6qGdPBZ39vAN/TuFjYbxJheoVaunzZksT+mEPMbriL4rwUQDut644Kq/ie2+0OcWZZLF25wzMlzuikN/VnrSq+O/g2v0oB5Vqr root@otc-cloud"
+export GIT_EMAIL='otc_cloud@163.com'
+export GIT_NAME='Intel PCI CI'
+export UPSTREAM_GERRIT_USER=intelotccloud
+export UPSTREAM_GERRIT_SSH_KEY_PATH=gerrit_key
+export JENKINS_SSH_KEY_PATH=jenkins_key
+export PUBLISH_HOST=127.0.0.1
